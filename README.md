@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moondancer90
+- 👋 Hi, I’m Zachary Johnsen @Moondancer90
 - 👀 I’m interested in ... Computers and technology
-- 🌱 I’m currently learning ...Vue.j
+- 🌱 I’m currently learning ...Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...purplesky90@yahoo.com or Moonlightdance90@gamil.com
 
